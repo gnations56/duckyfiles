@@ -11,3 +11,5 @@ function Start-Music
 }
 
 Start-Music
+
+Read-Host
