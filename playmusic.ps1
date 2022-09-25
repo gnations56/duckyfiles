@@ -11,5 +11,4 @@ function Start-Music
 }
 
 Start-Music
-
-Read-Host
+Start-Sleep -Seconds 500
